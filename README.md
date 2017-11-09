@@ -1,3 +1,5 @@
+*Detailed notes on what was done here (or link to blog-post will follow soon)*
+
 # Tailwind CSS Webpack Starter Project
 
 This is an example of a super simple Webpack setup for using [Tailwind CSS](https://tailwindcss.com).
