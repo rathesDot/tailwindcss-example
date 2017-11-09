@@ -1,3 +1,11 @@
 @tailwind preflight;
 
+h2, h3 {
+    @apply .mt-8 .mb-4 .font-sans .font-medium
+}
+
+.p {
+    @apply .mb-8
+}
+
 @tailwind utilities;
