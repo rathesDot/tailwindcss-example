@@ -1,4 +1,4 @@
-*Detailed notes on what was done here (or link to blog-post will follow soon)*
+*Note: [Check this blog article to read some more information on this topic](https://medium.com/@rathes/build-a-web-page-with-tailwind-127bda3aace7)*
 
 # Tailwind CSS Webpack Starter Project
 
